@@ -90,3 +90,12 @@ input[type=file] {
     cursor: pointer;
     transition: background .2s ease-in-out;
   }
+
+  .img-hasil{
+    with : 300px;
+    height : 300px;
+  }
+
+  .txt-hasil{
+    padding-top: 50px;
+  }
